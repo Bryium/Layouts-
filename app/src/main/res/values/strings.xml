@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string-array name="cities">
+        <item>Zurich</item>
+        <item>New York</item>
+        <item>Berlin</item>
+        <item>Moscow</item>
+        <item>Madrid</item>
+    </string-array>
+
+    <string-array name="students">
+        <item>Meisam</item>
+        <item>Sarah</item>
+        <item>Brad</item>
+        <item>Madeline</item>
+        <item>Tom</item>
+    </string-array>
+</resources>
